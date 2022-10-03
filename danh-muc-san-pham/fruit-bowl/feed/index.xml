@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fruit Bowl &#8211; Nguyễn Phúc Ân</title>
+	<atom:link href="https://phucan2411.github.io/mywordpress/danh-muc-san-pham/fruit-bowl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phucan2411.github.io/mywordpress</link>
+	<description>Chào mừng đến với PhucAn  aquatic</description>
+	<lastBuildDate>Mon, 03 Oct 2022 02:38:52 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Colorful smoothie</title>
+		<link>https://phucan2411.github.io/mywordpress/san-pham/colorful-smoothie/</link>
+					<comments>https://phucan2411.github.io/mywordpress/san-pham/colorful-smoothie/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphucan]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 02:20:54 +0000</pubDate>
+				<guid isPermaLink="false">https://phucan2411.github.io/mywordpress/?post_type=product&#038;p=364</guid>
+
+					<description><![CDATA[On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire. Bzed by the charms of pleasure of the moment.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat . At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phucan2411.github.io/mywordpress/san-pham/colorful-smoothie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mixed smoothie</title>
+		<link>https://phucan2411.github.io/mywordpress/san-pham/mixed-smoothie/</link>
+					<comments>https://phucan2411.github.io/mywordpress/san-pham/mixed-smoothie/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphucan]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 02:14:11 +0000</pubDate>
+				<guid isPermaLink="false">https://phucan2411.github.io/mywordpress/?post_type=product&#038;p=358</guid>
+
+					<description><![CDATA[On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire. Bzed by the charms of pleasure of the moment.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat . At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phucan2411.github.io/mywordpress/san-pham/mixed-smoothie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
