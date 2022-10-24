@@ -11,15 +11,51 @@
 	<title>Smoothie &#8211; Nguyễn Phúc Ân</title>
 	<atom:link href="https://phucan2411.github.io/mywordpress/danh-muc-san-pham/smoothie/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phucan2411.github.io/mywordpress</link>
-	<description>Chào mừng đến với PhucAn  aquatic</description>
-	<lastBuildDate>Mon, 10 Oct 2022 01:19:17 +0000</lastBuildDate>
+	<description>Chào mừng đến với PhucAn  </description>
+	<lastBuildDate>Mon, 17 Oct 2022 15:32:32 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
+		<title>Blueberry Smoothie</title>
+		<link>https://phucan2411.github.io/mywordpress/san-pham/blueberry-smoothie/</link>
+					<comments>https://phucan2411.github.io/mywordpress/san-pham/blueberry-smoothie/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphucan]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2022 15:31:14 +0000</pubDate>
+				<guid isPermaLink="false">https://phucan2411.github.io/mywordpress/?post_type=product&#038;p=653</guid>
+
+					<description><![CDATA[On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire. Bzed by the charms of pleasure of the moment.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat . At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phucan2411.github.io/mywordpress/san-pham/blueberry-smoothie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cream strawberry</title>
+		<link>https://phucan2411.github.io/mywordpress/san-pham/cream-strawberry/</link>
+					<comments>https://phucan2411.github.io/mywordpress/san-pham/cream-strawberry/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphucan]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2022 15:27:03 +0000</pubDate>
+				<guid isPermaLink="false">https://phucan2411.github.io/mywordpress/?post_type=product&#038;p=648</guid>
+
+					<description><![CDATA[On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire. Bzed by the charms of pleasure of the moment.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat . At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phucan2411.github.io/mywordpress/san-pham/cream-strawberry/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Pink smoothie</title>
 		<link>https://phucan2411.github.io/mywordpress/san-pham/pink-smoothie/</link>
 					<comments>https://phucan2411.github.io/mywordpress/san-pham/pink-smoothie/#respond</comments>

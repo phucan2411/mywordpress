@@ -10,12 +10,12 @@
 	Bình luận cho Nguyễn Phúc Ân	</title>
 	<atom:link href="https://phucan2411.github.io/mywordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phucan2411.github.io/mywordpress</link>
-	<description>Chào mừng đến với PhucAn  aquatic</description>
-	<lastBuildDate>Mon, 10 Oct 2022 03:10:33 +0000</lastBuildDate>
+	<description>Chào mừng đến với PhucAn  </description>
+	<lastBuildDate>Mon, 24 Oct 2022 10:10:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
